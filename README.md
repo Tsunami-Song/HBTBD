@@ -18,7 +18,7 @@ Dependencies for the preprocessing code are not listed here.
 ### Datasets
 
 The preprocessed datasets are available at:
-* HBTBD - [Kaggle](https://www.dropbox.com/s/jvlbs09pz6zwcka/LastFM_processed.zip?dl=0)
+* HBTBD - [Kaggle]https://www.kaggle.com/datasets/songjialin/hbtbd-for-aml)
 
 ### Usage
 
